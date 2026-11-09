@@ -6,3 +6,6 @@ yarn-error.log
 
 # PHPStorm
 .idea/
+
+# Local test coverage
+coverage/
